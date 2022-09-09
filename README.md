@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi I'm houmreu 👋
 
-<!--
-**houmreu/houmreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm game developer, programmer and video editor 💙
 
-Here are some ideas to get you started:
+- I know C#, Javascript, Python, Css, Html and Java 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My discord: Očekával se středník (;).#2693
+
+### My youtube channel:
+  [houmreu][youtube]
+
+
+[youtube]: https://www.youtube.com/c/JÁHOUMR
