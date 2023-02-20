@@ -2,7 +2,7 @@
 
 - I'm game developer, programmer and video editor 💙
 
-- I know C#, Javascript, Python, Css, Html and a bit of Lua🔥
+- I know C#, Javascript, Css, Html and a bit of Lua and Python🔥
 
 - My discord: houmreu#2693
 
