@@ -4,7 +4,7 @@
 
 - I use C#, Javascript, Css, Html and basics of Lua and Python🔥
 
-- My discord: houmreu#2693
+- My discord: houmreu
 
 ### My youtube channel:
   [houmreu][youtube]
