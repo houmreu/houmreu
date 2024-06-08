@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://www.youtube.com/@houmreu/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="houmreu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/houmreu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="houmreu" height="30" width="40" /></a>
-<a href="https://www.geoguessr.com/user/5b571ce97135fa0e48b2d9f8" target="blank"><img align="center" src="https://i.imgur.com/Zew5cN7.png" alt="houmreu" height="40" width="37" /></a>
+<a href="https://www.geoguessr.com/user/5b571ce97135fa0e48b2d9f8" target="blank"><img align="center" src="https://i.imgur.com/Zew5cN7.png" alt="houmreu" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
