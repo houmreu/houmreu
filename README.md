@@ -9,7 +9,7 @@
 <a href="https://discord.gg/3eqSwwMHQM" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-5-1.png" alt="GeoguessrČesko Discord" height="32" width="42" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I use:</h3>
 <p align="left">
 
 <picture> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </picture>
