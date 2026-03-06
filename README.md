@@ -11,5 +11,6 @@
 - C#
 - Java
 - Javascript
-- Assembly (basics)
+- Assembly
+- C++ (basics)
 - Python (basics)
